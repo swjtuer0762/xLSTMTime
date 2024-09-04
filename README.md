@@ -22,5 +22,5 @@ The original xLSTMTime repository (https://github.com/muslehal/xLSTMTime) had nu
 
 ## 补充
 
-原版的xLSTMTime仓库源码(https://github.com/muslehal/xLSTMTime)存在大量问题，为了方便大家使用，我修改了源码，目前代码已经能够顺利跑通，希望大家使用愉快！若还有问题，欢迎大家在issues中提出！
+原版的xLSTMTime仓库源码(https://github.com/muslehal/xLSTMTime) 存在大量问题，为了方便大家使用，我修改了源码，目前代码已经能够顺利跑通，希望大家使用愉快！若还有问题，欢迎大家在issues中提出！
 
